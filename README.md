@@ -1,0 +1,1 @@
+# AI-powered-crop-prediction-and-disease-detection-model
