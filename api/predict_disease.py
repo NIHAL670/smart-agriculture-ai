@@ -9,7 +9,7 @@ def load_model(crop):
 
     if crop not in model_cache:
         try:
-            model_cache[crop] = tf.keras.models.load_model(f"models/{crop}_model.h5")
+            model_cache[crop] = tf.keras.models.load_model(f"{crop}_model.h5")
         except:
             return None
 
