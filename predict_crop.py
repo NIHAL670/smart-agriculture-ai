@@ -1,7 +1,7 @@
 import pickle
 import numpy as np
 
-model = pickle.load(open("models/crop_model.pkl", "rb"))
+model = pickle.load(open("crop_model.pkl", "rb"))
 
 # ✅ Single crop
 def predict_crop(N, P, K, temp, humidity, ph, rainfall):
