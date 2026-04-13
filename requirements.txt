@@ -6,4 +6,4 @@ pydantic
 pillow
 requests
 scikit-learn
-tensorflow
+
