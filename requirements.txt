@@ -1,9 +1,8 @@
-streamlit
+fastapi
+uvicorn
 numpy
-pandas
-scikit-learn
+pydantic
 pillow
 requests
-matplotlib
+scikit-learn
 tensorflow
-
