@@ -76,8 +76,8 @@ api/predict_crop   utils/fertilizer   api/predict_disease
 ## Quick start
 
 ```bash
-git clone https://github.com/NIHAL670/AI-powered-crop-prediction-and-disease-detection-model.git
-cd AI-powered-crop-prediction-and-disease-detection-model
+git clone https://github.com/NIHAL670/smart-agriculture-ai.git
+cd smart-agriculture-ai
 pip install -r requirements.txt
 
 # Dashboard
